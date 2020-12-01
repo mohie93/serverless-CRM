@@ -1,0 +1,8 @@
+{
+  "name": "serverless-crm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mohie93/serverless-CRM.git",
+  "author": "mohie93 <mohie_93@hotmail.com>",
+  "license": "MIT"
+}
